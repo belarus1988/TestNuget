@@ -1,3 +1,5 @@
 obj
 bin
 /TestDKNuget/.vs/TestDKNuget/v16/*.suo
+/TestDKNuget/.vs/TestDKNuget/v17/*.suo
+/TestDKNuget/.vs/TestDKNuget/DesignTimeBuild/*.v2
